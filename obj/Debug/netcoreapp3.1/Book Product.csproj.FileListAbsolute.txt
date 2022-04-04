@@ -1,0 +1,5 @@
+C:\Users\ASUS\Desktop\Book Product\obj\Debug\netcoreapp3.1\Book Product.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Book Product\obj\Debug\netcoreapp3.1\Book Product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Book Product\obj\Debug\netcoreapp3.1\Book Product.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Book Product\obj\Debug\netcoreapp3.1\Book Product.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Book Product\obj\Debug\netcoreapp3.1\Book Product.csproj.CoreCompileInputs.cache
